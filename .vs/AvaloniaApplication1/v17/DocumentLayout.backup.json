@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\Clients.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Clients.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\Clients.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:32:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T14:27:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAD4v2QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:27:19.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

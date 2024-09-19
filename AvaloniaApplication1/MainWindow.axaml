@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1980" d:DesignHeight="1080"
+        x:Class="AvaloniaApplication1.MainWindow"
+        Title="AvaloniaApplication1"
+		x:CompileBindings="False"
+		Background="LimeGreen">
+	<Grid ColumnDefinitions="*, *, *, *, *, *" RowDefinitions="*, *, *, *, *, *" ShowGridLines="True">
+		<ListBox Grid.Column="1" Grid.Row="2" Grid.RowSpan="4" Grid.ColumnSpan="4" Name="PeopleList">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid ColumnDefinitions="*, *, *, *, *, *, *, *">
+						<TextBlock Grid.Column="0" Text="{Binding Id}"></TextBlock>
+						<TextBlock Grid.Column="1" Text="{Binding Gender}"></TextBlock>
+						<TextBlock Grid.Column="2" Text="{Binding Name}"></TextBlock>
+						<TextBlock Grid.Column="3" Text="{Binding Lastname}"></TextBlock>
+						<TextBlock Grid.Column="4" Text="{Binding PhoneNumber}"></TextBlock>
+						<TextBlock Grid.Column="5" Text="{Binding Email}"></TextBlock>
+						<TextBlock Grid.Column="6" Text="{Binding RegistrationDate}"></TextBlock>
+						<Button Name="Delet" Grid.Column="7" Content="удалить" Tag="{Binding Id}" Click="Button_Click"></Button>
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+		<TextBox Watermark="поиск" Name="Search" Grid.Column="2" Grid.Row="0" Grid.ColumnSpan="2" KeyUp="TextBox_KeyUp"></TextBox>
+		<ComboBox Name="Filter" Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" SelectionChanged="ComboBox_SelectionChanged">
+			<ComboBoxItem>все данные</ComboBoxItem>
+			<ComboBoxItem>мужской</ComboBoxItem>
+			<ComboBoxItem>женский</ComboBoxItem>
+		</ComboBox>
+		<ComboBox Name="Sort" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" SelectionChanged="ComboBox_SelectionChanged_1">
+			<ComboBoxItem>все данные</ComboBoxItem>
+			<ComboBoxItem>по алфавиту</ComboBoxItem>
+		</ComboBox>
+		<TextBlock Grid.Column="5" Grid.Row="5" Name="Elements" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ></TextBlock>
+		
+	</Grid>
+</Window>
