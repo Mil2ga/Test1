@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AvaloniaApplication1
 {
-    internal class Clients
+    public class Clients
     {
         public int Id { get; set; }
         public char Gender { get; set; }

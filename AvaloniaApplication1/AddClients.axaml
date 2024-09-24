@@ -1,0 +1,22 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1980" d:DesignHeight="1080"
+        x:Class="AvaloniaApplication1.AddClients"
+        Title="AddClients"
+		x:CompileBindings="False"
+		Background="AliceBlue"
+		MinHeight="400"
+		MinWidth="600">
+	<Grid RowDefinitions="*, *, *, *, *, *, *" ColumnDefinitions="*, *">
+		<TextBox Name="Gender" Background="Bisque" Grid.Row="0" Grid.ColumnSpan="1" Text="{Binding Gender}" Margin="10"></TextBox>
+		<TextBox Name="Name" Background="Bisque" Grid.Row="1" Grid.ColumnSpan="1" Text="{Binding Name}" Margin="10"></TextBox>
+		<TextBox Name="Lastname" Background="Bisque" Grid.Row="2" Grid.ColumnSpan="1" Text="{Binding Lastname}" Margin="10"></TextBox>
+		<TextBox Name="PhoneNumber" Background="Bisque" Grid.Row="3" Grid.ColumnSpan="1" Text="{Binding PhoneNumber}" Margin="10"></TextBox>
+		<TextBox Name="Email" Background="Bisque" Grid.Row="4" Grid.ColumnSpan="1" Text="{Binding Email}" Margin="10"></TextBox>
+		<TextBox Name="RegistrationDate" Background="Bisque" Grid.Row="5" Grid.ColumnSpan="1" Text="{Binding RegistrationDate}" Margin="10"></TextBox>
+		<Button Name="Back" Grid.Row="6" Grid.ColumnSpan="1" HorizontalAlignment="Stretch" Content="назад" VerticalAlignment="Stretch" Margin="10" FontSize="30" Click="Button_Click" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Button>
+		<Button Name="Save" Grid.Row="6" Grid.Column="2" HorizontalAlignment="Stretch" Content="сохранить" VerticalAlignment="Stretch" Margin="10" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Button>
+	</Grid>
+</Window>

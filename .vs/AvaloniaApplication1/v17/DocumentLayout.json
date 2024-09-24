@@ -1,49 +1,99 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\addclients.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addclients.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\contan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\contan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\source\\repos\\avaloniaapplication1\\avaloniaapplication1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\addclients.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addclients.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\1121\\test1\\avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{16A981FA-4FDE-41E5-A8A5-35AFB2791A03}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 151,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Contan.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\Contan.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\Contan.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\Contan.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\Contan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:08:09.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Clients.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\Clients.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\Clients.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\Clients.cs",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\Clients.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\Clients.cs",
               "RelativeToolTip": "AvaloniaApplication1\\Clients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T14:32:34.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AddClients.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\AddClients.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\AddClients.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\AddClients.axaml",
+              "RelativeToolTip": "AvaloniaApplication1\\AddClients.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T14:36:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddClients.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\AddClients.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication1\\AddClients.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\AddClients.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication1\\AddClients.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:36:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\MainWindow.axaml",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\MainWindow.axaml",
               "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-19T14:27:20.793Z",
@@ -51,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\1121\\Test1\\AvaloniaApplication1\\MainWindow.axaml.cs",
               "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAD4v2QAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T14:27:19.314Z",
               "EditorCaption": ""
